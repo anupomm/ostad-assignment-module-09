@@ -1,16 +1,1 @@
-# weather
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-07-12 at 10 45 44 PM](https://github.com/anupomm/ostad-assignment-module-09/assets/95094496/aee4e7e2-243c-48bd-b5c2-f26f4fc2c984)
